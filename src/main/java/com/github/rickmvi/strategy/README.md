@@ -149,4 +149,4 @@ ___
 
 Se quiser praticar o **Strategy**, confira o código do desafio no package:
 
-➡️ [`com.github.rickmvi.strategy.challenge`](https://github.com/SEU_USUARIO/SEU_REPO/tree/main/src/main/java/com/github/rickmvi/strategy/challenge)
+➡️ [`com.github.rickmvi.strategy.challenge`](https://github.com/rickmvi/DesignPatterns/tree/main/src/main/java/com/github/rickmvi/strategy/challenge)
