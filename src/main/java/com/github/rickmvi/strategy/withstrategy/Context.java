@@ -1,10 +1,10 @@
-package com.github.rickmvi.strategy;
+package com.github.rickmvi.strategy.withstrategy;
 
-import com.github.rickmvi.strategy.tax.CalculateTax;
-import com.github.rickmvi.strategy.tax.internal.ICMS;
-import com.github.rickmvi.strategy.tax.internal.INSS;
-import com.github.rickmvi.strategy.tax.internal.IPI;
-import com.github.rickmvi.strategy.tax.internal.ISS;
+import com.github.rickmvi.strategy.withstrategy.tax.CalculateTax;
+import com.github.rickmvi.strategy.withstrategy.tax.internal.ICMS;
+import com.github.rickmvi.strategy.withstrategy.tax.internal.INSS;
+import com.github.rickmvi.strategy.withstrategy.tax.internal.IPI;
+import com.github.rickmvi.strategy.withstrategy.tax.internal.ISS;
 
 import java.math.BigDecimal;
 

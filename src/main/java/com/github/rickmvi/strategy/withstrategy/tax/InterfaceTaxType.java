@@ -1,4 +1,4 @@
-package com.github.rickmvi.strategy.tax;
+package com.github.rickmvi.strategy.withstrategy.tax;
 
 import java.math.BigDecimal;
 

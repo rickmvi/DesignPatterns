@@ -1,6 +1,6 @@
-package com.github.rickmvi.nostrategy;
+package com.github.rickmvi.strategy.nostrategy;
 
-import com.github.rickmvi.nostrategy.tax.CalculatorTax;
+import com.github.rickmvi.strategy.nostrategy.tax.CalculatorTax;
 
 import java.math.BigDecimal;
 

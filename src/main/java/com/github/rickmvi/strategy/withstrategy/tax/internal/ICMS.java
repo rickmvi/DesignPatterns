@@ -1,6 +1,6 @@
-package com.github.rickmvi.strategy.tax.internal;
+package com.github.rickmvi.strategy.withstrategy.tax.internal;
 
-import com.github.rickmvi.strategy.tax.InterfaceTaxType;
+import com.github.rickmvi.strategy.withstrategy.tax.InterfaceTaxType;
 import org.jetbrains.annotations.NotNull;
 
 import java.math.BigDecimal;

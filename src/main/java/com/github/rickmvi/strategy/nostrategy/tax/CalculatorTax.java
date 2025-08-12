@@ -1,4 +1,4 @@
-package com.github.rickmvi.nostrategy.tax;
+package com.github.rickmvi.strategy.nostrategy.tax;
 
 import org.jetbrains.annotations.NotNull;
 
