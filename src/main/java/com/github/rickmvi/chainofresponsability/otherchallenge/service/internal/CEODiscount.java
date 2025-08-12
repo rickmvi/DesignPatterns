@@ -11,6 +11,6 @@ public class CEODiscount extends DiscountHandler {
             return amount.multiply(new BigDecimal("0.25"));
         }
 
-        return null;
+        return next(amount);
     }
 }
