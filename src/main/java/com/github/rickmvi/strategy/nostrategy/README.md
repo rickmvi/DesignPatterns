@@ -49,6 +49,8 @@ Saída esperada:
     No Strategy
     60.00
 
+___
+
 **⚠ Limitações da Abordagem**
 
 * **Alto acoplamento**: a lógica de cálculo de todos os impostos está centralizada em um único switch.
