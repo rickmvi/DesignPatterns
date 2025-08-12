@@ -47,6 +47,8 @@ Você pode ir de:
 Essas são **estratégias diferentes** para o mesmo objetivo: **chegar ao aeroporto**.
 Você escolhe qual usar conforme o momento, mas o **destino é o mesmo**.
 
+<p align="center"> <img src="assets/strategy-comic-1-en.png" width="600" style="margin:15px;"> </p>
+
 ___
 ### 📂 Estrutura Básica
 
@@ -135,7 +137,6 @@ public class Main {
     }
 }
 ```
-<p align="center"> <img src="assets/strategy-comic-1-en.png" width="600" style="margin:15px;"> </p>
 
 ___
 ### 📖 Quando Usar
